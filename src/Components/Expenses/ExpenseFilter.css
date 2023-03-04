@@ -1,0 +1,30 @@
+.expenses-filter{
+    display: inline-block;
+    height: 30px;
+    width: 120px;
+    outline: none;
+    color: #74646e;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 1px 1px 2px #999;
+    background: #eee;
+    white-space: nowrap;
+}
+.expenses-filter__control{
+    width: 120px;
+    height: 30px;
+    border: 1px solid #999;
+    font-size: 18px;
+    color: #1c87c9;
+    background-color: #eee;
+    border-radius: 5px;
+    box-shadow: 4px 4px #ccc;
+    display: inline-block;
+    justify-content: flex-end;
+}
+
+select{
+    margin-left: 40rem;
+    padding: 6px 2px 6px 6px;
+    border-radius: 2px;
+}
